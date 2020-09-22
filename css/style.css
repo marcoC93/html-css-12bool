@@ -66,3 +66,40 @@ header {
     padding-bottom: 100px;
 
 }
+/*  sezione servizi */
+#servizi {
+    padding-top: 50px;
+}
+
+#servizi img {
+    width: 100%;
+}
+
+#servizi #values {
+    text-align: center;
+    padding-left: 20px;
+}
+#servizi h2 {
+    padding-bottom: 10px;
+}
+#servizi hr {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+/*  Sezione "I miei servizi" */
+.box {
+    padding: 30px;
+    height: 300px;
+    background: #41714D ;
+    margin: 20px;
+
+    text-align: center;
+
+    transition: 1s ;
+}
+.box:hover {
+    transform: scale(1.1);
+}
+#servizi {
+    background: grey;
+}
